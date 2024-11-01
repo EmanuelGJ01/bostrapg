@@ -148,7 +148,7 @@ color: white;
 
 .sectionchef{
     height: 100vh;
-    background-image: url(../imagenes/chef_bg.jpg);
+    background-image: url(./imagenes/chef_bg.jpg);
     background-size: cover;
     background-position: center;
 }
