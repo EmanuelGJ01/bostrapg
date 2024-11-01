@@ -1,0 +1,19 @@
+
+.tect{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+.row .border{
+    border: 1px;
+}
+.bl1{
+    background-color: pink;
+}
+.bl2{
+    background-color: rgba(232, 183, 61, 0.727);
+}
+.row .porta{
+    padding: 2rem;
+}
